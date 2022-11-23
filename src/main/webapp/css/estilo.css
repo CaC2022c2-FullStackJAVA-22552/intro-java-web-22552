@@ -1,0 +1,47 @@
+ol li {
+    color: brown;
+}
+
+img {
+    display: block;
+}
+
+html {
+    /*font-size: 16px;*/
+    font-size: 18px;
+    font-family: 'Roboto Slab', Helvetica, sans-serif;
+}
+
+.amarillo {
+    background: #ffff70;
+}
+
+#elTitulo {
+    font-size: 1rem;
+}
+
+#especial {
+    font-size: 1rem;
+}
+
+h1, h2 {
+    display: inline;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#programaCaC {
+    text-align: center;
+}
+
+#programaCaC a {
+    color:rgb(71, 67, 0);
+}
+
+.verde-negrita {
+    color: #5D702E;
+    font-weight: bold;
+}
+
+.rojo {
+    background: rgb(255, 125, 125);
+}

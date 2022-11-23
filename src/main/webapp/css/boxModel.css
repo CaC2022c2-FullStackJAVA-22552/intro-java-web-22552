@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+.ingredientes, .pasos {
+    float: left;
+    background-color: rgb(199, 199, 98);;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+div, header, footer {
+    margin: 15px;
+    padding: 10px;
+}
+
+.fondo-claro {
+    background: rgb(254, 254, 174);
+    border: 5px solid rgb(189, 189, 90);
+}
+
+.fondo-oscuro {
+    background: rgb(84, 84, 41);
+    color: white;
+}
+
+.destacado {
+    font-weight: bold;
+    font-size: 1.05em;
+}
+
+.fotos {
+    max-width: 1000px;
+}
+
+.fotos img {
+    width: 100%;
+}
+
+.pie {
+    background: #eee;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
